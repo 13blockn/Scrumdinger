@@ -19,6 +19,7 @@
 		C66308F12AFDEF960066AD60 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C66308F02AFDEF960066AD60 /* CardView.swift */; };
 		C66308F42AFDF2700066AD60 /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = C66308F32AFDF2700066AD60 /* TrailingIconLabelStyle.swift */; };
 		C66308F62AFDF30D0066AD60 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C66308F52AFDF30D0066AD60 /* ScrumsView.swift */; };
+		C66308F92AFE701E0066AD60 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C66308F82AFE701E0066AD60 /* DetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		C66308F02AFDEF960066AD60 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		C66308F32AFDF2700066AD60 /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		C66308F52AFDF30D0066AD60 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
+		C66308F82AFE701E0066AD60 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -162,6 +164,7 @@
 				C66308F02AFDEF960066AD60 /* CardView.swift */,
 				C66308C32AFDD2770066AD60 /* MeetingView.swift */,
 				C66308F52AFDF30D0066AD60 /* ScrumsView.swift */,
+				C66308F82AFE701E0066AD60 /* DetailView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -297,6 +300,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C66308EF2AFDEF430066AD60 /* DailyScrum.swift in Sources */,
+				C66308F92AFE701E0066AD60 /* DetailView.swift in Sources */,
 				C66308F42AFDF2700066AD60 /* TrailingIconLabelStyle.swift in Sources */,
 				C66308ED2AFDEF0C0066AD60 /* Theme.swift in Sources */,
 				C66308F62AFDF30D0066AD60 /* ScrumsView.swift in Sources */,
